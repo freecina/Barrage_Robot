@@ -1,6 +1,6 @@
 # Barrage_Robot
 
-> python 用python做的弹幕机机器人
+> python 用python做的弹幕机器人
 
 原理就是python调用win32api操作键盘鼠标模拟人发送弹幕，可以对任何直播平台发送
 弹幕！或者是QQ自动发送消息！发送的内容分别是content01 ,content02这两个文件随机
