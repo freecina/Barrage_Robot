@@ -20,5 +20,7 @@ GUI用PyQt5做的！
 想要发送的内容，一行一条弹幕，不能有引号即可！
 dist 文件里有已经打包好的exe程序，要将content01 content02 和 exe程序放在一个文件夹下
 
+![PicName](image01.png)
+![PicName](image02.png)
 
 
